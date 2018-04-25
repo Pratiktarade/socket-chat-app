@@ -1,0 +1,19 @@
+{
+  "name": "socket-chat-app",
+  "version": "1.0.0",
+  "description": "Application build using nodejs and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratiktarade/socket-chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratiktarade/socket-chat-app/issues"
+  },
+  "homepage": "https://github.com/Pratiktarade/socket-chat-app#readme"
+}
